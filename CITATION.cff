@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite both the dataset and the accompanying methods paper (see preferred-citation)."
+type: dataset
+title: "GH2025 — soil and feedstock characterisation data of the Carbdown greenhouse mesocosm experiment for enhanced rock weathering"
+version: v1.0
+date-released: 2026-10-30
+license: CC-BY-4.0
+repository-code: "https://github.com/dirkpaessler/carbdown_greenhouse_experiment_2025"
+authors:
+  - family-names: Paessler
+    given-names: Dirk
+    affiliation: "Carbon Drawdown Initiative, Fürth, Germany"
+  - family-names: Hammes
+    given-names: Jens S.
+    affiliation: "Carbon Drawdown Initiative, Fürth, Germany; Department of Earth System Sciences, Universität Hamburg, Hamburg, Germany"
+    email: jens.hammes@carbon-drawdown.de
+  - family-names: Smet
+    given-names: Ingrid
+    affiliation: "Carbon Drawdown Initiative, Fürth, Germany"
+  - family-names: Stoeckel
+    given-names: Anna A.
+    affiliation: "Carbon Drawdown Initiative, Fürth, Germany"
+  - family-names: Steffens
+    given-names: Ralf
+    affiliation: "Carbon Drawdown Initiative, Fürth, Germany"
+  - family-names: Hartmann
+    given-names: Jens
+    affiliation: "Department of Earth System Sciences, Universität Hamburg, Hamburg, Germany"
+  - family-names: Murphy
+    given-names: Melissa J.
+    affiliation: "Carbon Drawdown Initiative, Fürth, Germany; Mel Murphy Geochemistry, Copenhagen, Denmark"
+keywords:
+  - enhanced rock weathering
+  - carbon dioxide removal
+  - greenhouse experiment
+  - mesocosm
+  - soil characterisation
+  - feedstock characterisation
+preferred-citation:
+  type: article
+  title: "A soil–feedstock greenhouse mesocosm matrix for screening carbon dioxide removal via enhanced rock weathering"
+  year: 2026
+  journal: "CDRXIV (preprint)"
+  notes: "DOI to be added when the CDRXIV preprint is live; will be replaced by the peer-reviewed journal citation upon publication."
+  authors:
+    - family-names: Paessler
+      given-names: Dirk
+    - family-names: Hammes
+      given-names: Jens S.
+    - family-names: Smet
+      given-names: Ingrid
+    - family-names: Stoeckel
+      given-names: Anna A.
+    - family-names: Steffens
+      given-names: Ralf
+    - family-names: Hartmann
+      given-names: Jens
+    - family-names: Murphy
+      given-names: Melissa J.
