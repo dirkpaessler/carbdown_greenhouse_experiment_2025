@@ -2,8 +2,8 @@
 
 Data tables accompanying the paper (CDRXIV preprint, in print):
 
-Dirk Paessler1, Jens S. Hammes1,2\*, Ingrid Smet1, Anna A. Stoeckel1, Ralf Steffens1, Jens Hartmann2, Melissa J. Murphy1,3 (2026). 
-**A soil–feedstock greenhouse mesocosm matrix for screening carbon dioxide removal via enhanced rock weathering.** 
+Dirk Paessler1, Jens S. Hammes1,2\*, Ingrid Smet1, Anna A. Stoeckel1, Ralf Steffens1, Jens Hartmann2, Melissa J. Murphy1,3 (2026).   
+**A soil–feedstock greenhouse mesocosm matrix for screening carbon dioxide removal via enhanced rock weathering.**  
 *CDRXIV* \[preprint doi/link to be added\].
 
 The dataset is released alongside the CDRXIV preprint. A peer-reviewed version of the manuscript is planned for submission, and this README will be updated with the final journal citation upon publication.
