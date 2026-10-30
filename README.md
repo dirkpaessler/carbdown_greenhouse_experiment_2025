@@ -58,3 +58,12 @@ Detailed descriptions of the experimental design, analytical methods, quality-co
 | v1.0 | Oct 30th 2026 | First release, accompanying the CDRXIV preprint |
 |
 
+## License and citation
+
+All data in this repository are released under the **Creative Commons
+Attribution 4.0 International license (CC BY 4.0)** — see [LICENSE](LICENSE).
+You are free to share and adapt the data, including for commercial purposes,
+provided you give appropriate credit.
+
+Please cite both the dataset (via the "Cite this repository" button or
+[CITATION.cff](CITATION.cff)) and the accompanying methods paper listed above.
