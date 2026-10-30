@@ -56,7 +56,7 @@ Detailed descriptions of the experimental design, analytical methods, quality-co
 | Version | Date | Change |
 | :---- | :---- | :---- |
 | v1.0 | Oct 30th 2026 | First release, accompanying the CDRXIV preprint |
-|
+
 
 ## License and citation
 
